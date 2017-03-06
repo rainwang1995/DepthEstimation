@@ -18,10 +18,8 @@
 [2] Wu et al., 3D ShapeNets: A Deep Representation for Volumetric Shape.CVPR 2015  
 [3] Philip Shilane et al., The Princeton Shape Benchmark Shape Modeling International, June 2004   
 [4] HangSu et al., Multi-View Convolutional Neural Networks for 3D Shape Recognition.ICCV 2015  
-数据集网站:   
-<https://shapenet.cs.stanford.edu/shrec16/>  
-<https://modelnet.cs.princeton.edu/>  
-
-
+数据集网站:  
+[](https://shapenet.cs.stanford.edu/shrec16/)  
+[](http://modelnet.cs.princeton.edu/)
 ### 下阶段计划  
 阅读文献算法，配置开发环境，实现算法。   
