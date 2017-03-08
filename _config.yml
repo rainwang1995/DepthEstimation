@@ -3,6 +3,3 @@ markdown: kramdown
 kramdown:                                                                       
    input: GFM
    hard_wrap: false
-   
-name 王润
-   
