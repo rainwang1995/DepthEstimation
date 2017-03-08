@@ -4,10 +4,8 @@
 <img src="http://reso2.yiihuu.com/1077246-z.jpg">
 </div>
 
-***
 
-### Week1
-本周的主要工作如下：  
+### Week1 
 * **选定题目**   
 在对比了5个题目，队员结合自己对题目的熟悉程度后，选定做 2D and 3D Shape Recognition。  
 * **建立项目网站**  
@@ -20,7 +18,4 @@
 [4] HangSu et al., Multi-View Convolutional Neural Networks for 3D Shape Recognition.ICCV 2015  
 数据集网站:  
 [https://shapenet.cs.stanford.edu/shrec16/](https://shapenet.cs.stanford.edu/shrec16/)  
-[http://modelnet.cs.princeton.edu/](http://modelnet.cs.princeton.edu/)
-
-### 下阶段计划  
-阅读文献算法，配置开发环境，实现算法。   
+[http://modelnet.cs.princeton.edu/](http://modelnet.cs.princeton.edu/) 
