@@ -19,3 +19,10 @@
 数据集网站:  
 [https://shapenet.cs.stanford.edu/shrec16/](https://shapenet.cs.stanford.edu/shrec16/)  
 [http://modelnet.cs.princeton.edu/](http://modelnet.cs.princeton.edu/) 
+***
+### Week2  
+* **2D Shape Recognition**
+大体思路：检测+识别  
+问题：
+1.找不到充分适合的数据集  
+2.算法选择  
