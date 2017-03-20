@@ -31,9 +31,15 @@
 ***
 ### Week3
 * **2D Shape Recognition**
+
 解决上周问题：
+
 问题1解决方案：自制数据集
+
 数据集描述：主要分为5类图形和背景图形，5类2D图像分别为：triangle（三角形），rectangle（矩形），circle（圆形），star（五角星）和pentagon（五边形）
+
 其中部分数据集的图案如下所示：
+
 问题2解决方案：选择SIFT+BOVW算法
+
 实验测试结果如下所示：
