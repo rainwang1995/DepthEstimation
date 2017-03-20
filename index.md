@@ -31,7 +31,7 @@
 其中部分数据集的图案如下所示：  
 问题2解决方案：考虑到SIFT特征具有良好的旋转和尺度不变性，结合上课的内容，选择SIFT+BOVW+SVM算法  
 <div style="text-align:center" markdown="1">
-<img src="pics/algrithom.png ",alt="算法流程">
+<img src="pics/algrithom.png">
 </div>
 利用[vlfeat](http://www.vlfeat.org/index.html)和matlab实现算法。  
 实验测试结果如下所示：  
