@@ -71,8 +71,9 @@
 <img src="pics/3D.png" width="480" >
 </div>
 检测准确率几乎可以达到100%.   
-***
-###演示demo   
+
+***  
+### Demo   
 2D形状识别：   
 <iframe width="854" height="480" src="https://www.youtube.com/embed/KPPY0OmxrE8" frameborder="0" allowfullscreen></iframe>
 3D形状识别：   
